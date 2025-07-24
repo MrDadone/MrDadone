@@ -1,6 +1,6 @@
 # 👋 David
 
-**Owner at [Craftlands Hosting](https://craftlands.host)**  
+**[Craftlands Hosting](https://craftlands.host)**  
 Fast game server hosting for Minecraft, Rust, and more.
 
 ---
