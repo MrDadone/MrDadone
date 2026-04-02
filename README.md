@@ -1,11 +1,11 @@
-# 👋 David
+# Dadone
 
 **[Craftlands Hosting](https://craftlands.host)**  
 Fast game server hosting for Minecraft, Rust, and more.
 
 ---
 
-## 💻 Coding Activity
+## Coding Activity
 
 <!--START_SECTION:waka-->
 
@@ -25,4 +25,4 @@ Other        11 mins               ▓░░░░░░░░░░░░░░
 
 ---
 
-🌐 [Craftlands Hosting](https://craftlands.host)  
+[Craftlands Hosting](https://craftlands.host)  
