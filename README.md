@@ -10,15 +10,15 @@ Fast game server hosting for Minecraft, Rust, and more.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 May 2026 - To: 08 May 2026
+From: 02 May 2026 - To: 09 May 2026
 
-Total Time: 33 mins
+Total Time: 20 mins
 
-Other        6 hrs 6 mins          ███████████████████████░░   91.60 %
-TypeScript   32 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 %
-PHP          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Other        6 hrs 39 mins         ███████████████████████▓░   95.02 %
+TypeScript   16 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
+SQL          1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+PHP          1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 Rust         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-CSS          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
